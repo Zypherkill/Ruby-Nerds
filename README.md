@@ -1,8 +1,8 @@
 # Ruby-Nerds
 
-<h1>Sammanfattning</h1>
-
 Figma skissen hittar du [här](https://www.figma.com/board/t8nt8GYphqWiF3NxuHqGxk/Gruppexamination-Ruby-Nerds?node-id=14-319&node-type=text&t=ocUfVF2dc5aKzs3q-0)
+
+<h1>Sammanfattning</h1>
 
 <h2>Decomposition</h2>
 Vi tolkade skissen som att kaffemenyn var huvudsidan. Genom navigationen (hamburgermenyn) kan användaren ta sig till fler delar av appen. Vi bedömde att orderhistoriken endast kunde visas i inloggat läge samt att användaren skickas till orderhistoriken när nedräkningen avslutas. Om användaren genomför en beställning i inloggat läge utgår vi från att kunduppgifter och betalningsinformation är förifyllda uppgifter.
