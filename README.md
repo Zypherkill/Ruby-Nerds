@@ -1,6 +1,6 @@
 # Ruby-Nerds
 
-Figma skissen hittar du [här](https://www.figma.com/board/t8nt8GYphqWiF3NxuHqGxk/Gruppexamination-Ruby-Nerds?node-id=14-319&node-type=text&t=ocUfVF2dc5aKzs3q-0)
+Figjamen hittar du [här](https://www.figma.com/board/t8nt8GYphqWiF3NxuHqGxk/Gruppexamination-Ruby-Nerds?node-id=14-319&node-type=text&t=ocUfVF2dc5aKzs3q-0)
 
 <h1>Sammanfattning</h1>
 
