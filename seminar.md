@@ -31,7 +31,7 @@ medan spela:
 SLUT
 ```
 
-Fråga 3: Båda misstolkade instruktionerna för spelet och behövde påmminas, Chatgpt gav kod som inte fungerade medans Aizo gav oss en korrekt kod som fungera men gav en försvånansvärt dåligt resultat.
+Fråga 3: Båda misstolkade instruktionerna för spelet och behövde påmminas, Chatgpt gav kod som inte fungerade medans Aizo gav oss en korrekt kod som fungera men gav ett med 10,000 + slag innan spelet vart slutfört.
 
 ```
 function rollDice() {
