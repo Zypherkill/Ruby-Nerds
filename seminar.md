@@ -6,7 +6,7 @@ START
 spela = True
 spela_till_slut = False
 
-""
+'''
 medan spela:
     Slå_tärning()  // Rullar tärningen för att få ett tal mellan 1 och 6
     visa_resultat()  // Visar resultatet av tärningsslaget
@@ -28,4 +28,4 @@ medan spela:
     gå_tillbaks_nästa_tur()
 
 SLUT
-""
+'''
