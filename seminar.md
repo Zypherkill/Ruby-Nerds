@@ -30,3 +30,28 @@ medan spela:
 
 SLUT
 ```
+
+Fråga 3: Båda misstolkade instruktionerna för spelet och behövde påmminas, Chatgpt gav kod som inte fungerade medans Aizo gav oss en korrekt kod som fungera men gav en försvånansvärt dåligt resultat.
+
+```
+function rollDice() {
+     return Math.floor(Math.random() * 6) + 1; }
+
+ let targetSequence = [1, 2, 3, 4, 5, 6];
+ let currentSequence = [];
+ let attempts = 0;
+
+ while (currentSequence.join('') !== targetSequence.join('')) {
+     let roll = rollDice();
+     console.log(`Du kastar: ${roll}`);
+    
+     if (roll === targetSequence[currentSequence.length]) {
+         currentSequence.push(roll);
+     } else {
+         currentSequence = [];     }
+    
+     attempts++;
+ }
+
+ console.log(`Du fick rätt sekvens ${targetSequence.join(', ')} efter ${attempts} försök!`);
+```
