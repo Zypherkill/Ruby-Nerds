@@ -85,4 +85,7 @@ Vi ser det som okej att avnända ai som ett litet bollplank och fråga om förkl
 En anledning är att man inte lär sig att koda om man bara kopierar och klistrar in, vi tycker att man inte ska göra sig för bekväm med att använda ai. Det kan vara så att ai'en inte har hela bilden på det problem vi vill lösa, för oss som studenter inte ska bygga för dåliga vanor med ai så vi i framtiden råkar läcka ut känslig information från ett företag.
 
 <h2>Fråga 11:</h2>
-Vi anser att man inte ska bli för bekväm med copilot som gör att det blir svårare att identifiera fel och som också gör det svårarare att förklara den kod man har skrivit, en styrka som vi ser är att få fler exempel på lösningar som inte kanske kommit på på egen hand.
+Vi anser att man inte ska bli för bekväm med copilot som gör att det blir svårare att identifiera fel och som också gör det svårarare att förklara den kod man har skrivit, en styrka som vi ser är att få fler exempel på lösningar som inte kanske kommit på på egen hand. Det går betydligt snabbare att skriva koden förutsatt att man förstår det så man kan fokusera istället på att lösa problem.
+
+<h2>Fråga 12:</h2>
+
