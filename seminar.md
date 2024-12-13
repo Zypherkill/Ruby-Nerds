@@ -101,9 +101,9 @@ Att man till exempel tar för givet att ai'n skriver rätt och även som en säk
 
 <h2>Fråga 16:</h2>
 <h3>Deep ai</h3>
-Är bra för att generera en mängd bilder då den är utan spärrningar. Ett exempel på andra sider kan vara antalet bilder som man får generera utan att behöva betala. Deep ai kan okcås leverara bilder i olika storleksformat.
+Är bra för att generera en mängd bilder då den är utan spärrningar. Ett exempel på andra sider kan vara antalet bilder som man får generera utan att behöva betala. Deep ai kan okcås leverera bilder i olika storleksformat.
 <h3>Hemmingway</h3>
 Är ett bra verktyg för att hjälpa till för att förbättra texter så de blir grammatiskt korrekta och allmänt finskrivet. Den är visuellt tydlig som vägleder med olika färger och den är även målgruppsanpassad vilket kan hjälpa de yngre att lära sig eller att hjälpa någon att anpassa text för en yngre målgrupp.
 <h3>Ai verktyg i figma/figjam</h3>
-Det är just nu under utveckling men det kommer till exempel kunna hjälpa till med att namnge lager i din Figma eller att duplicera element. 
+Det är just nu under utveckling men det kommer till exempel kunna hjälpa till med att namnge lager i din Figma eller att duplicera element. Bra för att skapa snabba skisser så man kan fokusera mer på kodandet, man kan även generera bilder direkt i figma för att snabba på processen och att frilägga bilder (ta bort bakgrund).
 
