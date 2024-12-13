@@ -56,3 +56,5 @@ function rollDice() {
 
  console.log(`Du fick rätt sekvens ${targetSequence.join(', ')} efter ${attempts} försök!`);
 ```
+
+Fråga 4: Vi tror att om man är ordentlig med sina promptar så kommer bottarna att skriva ut bättre kod.
