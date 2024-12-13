@@ -89,3 +89,6 @@ Vi anser att man inte ska bli för bekväm med copilot som gör att det blir sv�
 
 <h2>Fråga 12:</h2>
 Att efter en egen uppgift har lämnats in att gå tillbaka och använda github copilot för att få förslag på refaktuering och andra lösningar. Att man kan använda det för att snabba till processen av din kodning så vi inte behöver skriva knapp för knapp för att få fram resultat vi vill. Men vi ser att även vi som studenter ska vara försiktiga med att använda co-pilot och istället lära oss själva och ta hjälp av Aizo.
+
+<h2>Fråga 13:</h2>
+Det med att snabba på processen och ge andra förslag på lösningar och även göra så man kommenterar mer för att hjälpa andra som ska pyssla med koden eller bara för sig själv.
