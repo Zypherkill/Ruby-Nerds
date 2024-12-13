@@ -99,3 +99,7 @@ Vi tror att den mänskliga faktorn kommer alltid att vara en del av utvecklandet
 <h2>Fråga 15:</h2>
 Att man till exempel tar för givet att ai'n skriver rätt och även som en säkerhetsfråga där man ger ut känslig eller viktigt information från det företag som man befinner sig på. Det kan även i dagsläget skrämma iväg kunder om man förlitar sig för mycket på ai med till exempel ai skriver text på en produkt sida.
 
+<h2>Fråga 16:</h2>
+<h3>Deep ai</h3>
+
+
