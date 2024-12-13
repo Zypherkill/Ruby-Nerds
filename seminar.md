@@ -81,3 +81,8 @@ En stor skillnad som vi såg är att koden är skriven på två helt olika sätt
 <h2>Fråga 9:</h2>
 Vi ser det som okej att avnända ai som ett litet bollplank och fråga om förklaringar på begrepp och funktioner eller ge ett exempel, vi ser Aizo som en extra handledare som finns tillgänglig när som helst. Vi tycker det inte är okej att använda ai till att skapa hela program, webbsidor till oss eller störra delar av kod som vi sen inte kan förklara/förstå och bara klistra in det.
 
+<h2>Fråga 10:</h2>
+En anledning är att man inte lär sig att koda om man bara kopierar och klistrar in, vi tycker att man inte ska göra sig för bekväm med att använda ai. Det kan vara så att ai'en inte har hela bilden på det problem vi vill lösa, för oss som studenter inte ska bygga för dåliga vanor med ai så vi i framtiden råkar läcka ut känslig information från ett företag.
+
+<h2>Fråga 11:</h2>
+Vi anser att man inte ska bli för bekväm med copilot som gör att det blir svårare att identifiera fel och som också gör det svårarare att förklara den kod man har skrivit, en styrka som vi ser är att få fler exempel på lösningar som inte kanske kommit på på egen hand.
