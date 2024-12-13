@@ -57,4 +57,4 @@ function rollDice() {
  console.log(`Du fick rätt sekvens ${targetSequence.join(', ')} efter ${attempts} försök!`);
 ```
 
-Fråga 4: Vi tror att om man är ordentlig med sina promptar så kommer bottarna att skriva ut bättre kod.
+Fråga 4: Vi tror att om man är ordentlig med sina promptar så kommer bottarna att skriva ut bättre kod, vi misstänker att ChatGPT kommer att vara bättre i ett större projekt om man skulle låta den göra majoriteten av arbetet. Medans Aizo vill ha mer regulbunden output och frågor oss vad vi tror skulle våra bra om man vill ha hjälp med mindre snuttar av koden. 
