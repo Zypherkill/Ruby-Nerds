@@ -1,6 +1,6 @@
 Fråga 1: Skillnaden som vi sett från start är att Aizo har fler spärrar, han ställer frågor och vill att man själv ska tänka själv. Medans ChatGPT ger ut direkt svar på hur den applicerar metoderna på spelet och gav oss flera exempel på hur man skulle kunna koda upp spelet i python och java medans Aizo tog en annan approach med att gå vidare med att istället börja vägleda oss mot att skriva upp programmet.
 
-Fråga 2: Båda Ai'sen förstår vad spelet innebär och har liknande kod men det är mer tydligt skrivet med ChatGPT. Den sist nämnande använder inventeringar och = tecken som påminner av vanlig kod till exempel.
+Fråga 2: Båda Ai'sen förstår vad spelet innebär och har liknande kod men det är mer tydligt skrivet med ChatGPT. Den sist nämnande använder indenteringar och = tecken som påminner av vanlig kod till exempel.
 
 ```
 START
