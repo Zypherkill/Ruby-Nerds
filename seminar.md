@@ -63,4 +63,4 @@ Vi har också upptäckt att ChatGPT är bättre på att komma ihåg konversation
 Fråga 5: Båda botterna förklarar väl vad de olika värdena betyder fast med annan olika ord och tonalitet. Aizo använder mer emojis för att vara lite rolig och uppmuntrar att man ska testa att justera värdena själv för att se vad som händer. ChatGPT gav oss även en egen html kod som exempel med en förklaring på hur box-shadow påverkar elementet.
 
 Fråga 6:
-ChatGPT är inmatad med version två av AWS SDK så vill den att man ska fortsätta använda .promise() när man skriver kod fast den finns en version 3 där det inte längre behövs användas. När man jobbar i redan befinitliga projekt kanske den består av äldre versioner av kod som man måste förhålla sig till. 
+När man jobbar i redan befinitliga projekt kanske den består av äldre versioner av kod som man måste förhålla sig till. ChatGPT är inmatad med den tidigare versionen men det finns en senare version av AWS SDK där promise inte längre behövs användas.
