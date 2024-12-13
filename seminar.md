@@ -64,3 +64,6 @@ Fråga 5: Båda botterna förklarar väl vad de olika värdena betyder fast med 
 
 Fråga 6:
 När man jobbar i redan befinitliga projekt kanske den består av äldre versioner av kod som man måste förhålla sig till. ChatGPT är inmatad med den tidigare versionen av AWS SDK som är den andra versionen men det finns en version 3 av AWS SDK där promise inte längre behövs användas. Den tredje versionen är nyare och på de projekt som finns ute använder majoritet den andra versionen så den har fortfarande bra funktionalitet och det är lite onöndigt att skriva om koden och uppdatera till den tredje versionen.
+
+Fråga 7:
+Nybörjar versionen var mer kopplad till mer till vardagen för att man skulle kunna lättare sätta in sig i konceptet och det var även en kortare beskrivning på det hela. Vi fick även tips i slutet av svaret för att kunna hjälpa oss på traven så vi kan lättare lära oss om koncepten och den gav oss även exempel hur man använder det io programmering om man så ville veta.
