@@ -3,32 +3,33 @@ Fråga 1: Skillnaden som vi sett från start är att Aizo har fler spärrar, han
 Fråga 2: Vi behövde att förtydliga spelets regler för både Ai'sen för att de skulle förstå spelets regler och de har liknande kod men det är mer tydligt skrivet med ChatGPT. Den sist nämnande använder indenteringar och = tecken som påminner av vanlig kod till exempel.
 
 ```
-START
+funktion spelaStege():
+    # Definiera startvärdet för sekvensen och antal kast
+    mål = 1  # Första talet vi söker
+    kast = 0  # Håll koll på antalet kast
+    sekvens = []  # Håller koll på sekvensen vi får
 
-spela = True
-spela_till_slut = False
+    # Fortsätt tills vi får hela sekvensen 1, 2, 3, 4, 5, 6
+    medan sekvens är inte lika med [1, 2, 3, 4, 5, 6]:
+        kastaTärning()  # Kasta tärningen
+        kast += 1  # Öka kastantalet
 
-medan spela:
-    Slå_tärning()  // Rullar tärningen för att få ett tal mellan 1 och 6
-    visa_resultat()  // Visar resultatet av tärningsslaget
+        om tärningens resultat är lika med mål:
+            sekvens.add(mål)  # Lägg till mål i sekvensen
+            mål += 1  # Gå vidare till nästa tal i sekvensen
+        slutom
 
-    om tärningsresultat är 1 eller 2:
-        // Spelaren förlorar sin tur
-        skriv_ut("Du förlorade din tur!")
-        gå_tillbaks_nästa_tur()
-    annars om tärningsresultat är 3 till 6:
-        // Spelaren avancerar på stegen
-        flytta_spelare(tärningsresultat)
+    # När sekvensen är klar, skriv ut antalet kast
+    skriv ut "Antal kast: " + kast
+    skriv ut "Sekvensen: " + sekvens
+slutfunktion
 
-        // Kontrollera om spelaren har nått slutet av stegen
-        om spelaren_nått_slut():
-            skriv_ut("Du har vunnit!")
-            spela = False
-
-    // Ny tur, om spelet inte är slut
-    gå_tillbaks_nästa_tur()
-
-SLUT
+funktion kastaTärning():
+    # Generera ett slumptal mellan 1 och 6
+    resultat = slumptal(1, 6)
+    skriv ut "Tärningens resultat: " + resultat
+    return resultat
+slutfunktion
 ```
 
 Fråga 3: Båda misstolkade instruktionerna för spelet och behövde påmminas, Chatgpt gav kod som inte fungerade medans Aizo gav oss en korrekt kod som fungera men med ett resultat på 10,000 + slag innan spelet vart slutfört.
