@@ -91,4 +91,11 @@ Vi anser att man inte ska bli för bekväm med copilot som gör att det blir sv�
 Att efter en egen uppgift har lämnats in att gå tillbaka och använda github copilot för att få förslag på refaktuering och andra lösningar. Att man kan använda det för att snabba till processen av din kodning så vi inte behöver skriva knapp för knapp för att få fram resultat vi vill. Men vi ser att även vi som studenter ska vara försiktiga med att använda co-pilot och istället lära oss själva och ta hjälp av Aizo.
 
 <h2>Fråga 13:</h2>
-Det med att snabba på processen och ge andra förslag på lösningar och även göra så man kommenterar mer för att hjälpa andra som ska pyssla med koden eller bara för sig själv.
+Det med att snabba på processen och ge andra förslag på lösningar och även göra så man kommenterar mer för att hjälpa andra som ska pyssla med koden eller bara för sig själv och att upptäcka nya paket och tekniker.
+
+<h2>Fråga 14:</h2>
+Vi tror att den mänskliga faktorn kommer alltid att vara en del av utvecklandet, vi matar ai'en med prompts för att kunna generera något typ av resultat. Vi ser det som ett verktyg för att bredda våra kunskaper och kunna arbeta med fler frågor an bara kod.
+
+<h2>Fråga 15:</h2>
+Att man till exempel tar för givet att ai'n skriver rätt och även som en säkerhetsfråga där man ger ut känslig eller viktigt information från det företag som man befinner sig på. Det kan även i dagsläget skrämma iväg kunder om man förlitar sig för mycket på ai med till exempel ai skriver text på en produkt sida.
+
