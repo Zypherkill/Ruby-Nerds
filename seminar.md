@@ -67,3 +67,6 @@ När man jobbar i redan befinitliga projekt kanske den består av äldre version
 
 Fråga 7:
 Nybörjar versionen var mer kopplad till mer till vardagen för att man skulle kunna lättare sätta in sig i konceptet och det var även en kortare beskrivning på det hela. Vi fick även tips i slutet av svaret för att kunna hjälpa oss på traven så vi kan lättare lära oss om koncepten och den gav oss även exempel hur man använder det io programmering om man så ville veta.
+
+Fråga 8:
+En stor skillnad som vi såg är att koden är skriven på två helt olika sätt, den enklare versionen använde .map för att gå igenom strängen och kolla igenom alla positioner för att kolla igenom varje tecken medans den andra versionen kollade igenom med en loop istället. Vi tror även att den "svårare" versionen kan användas lättre till fler typer av scenarion än nybörjar versionen med .map.
