@@ -101,5 +101,5 @@ Att man till exempel tar för givet att ai'n skriver rätt och även som en säk
 
 <h2>Fråga 16:</h2>
 <h3>Deep ai</h3>
-
+Är bra för att generera en mängd bilder då den är utan spärrningar. Ett exempel på andra sider kan vara antalet bilder som man får generera utan att behöva betala. Deep ai kan okcås leverara bilder i olika storleksformat.
 
