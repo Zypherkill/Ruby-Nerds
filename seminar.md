@@ -88,4 +88,4 @@ En anledning är att man inte lär sig att koda om man bara kopierar och klistra
 Vi anser att man inte ska bli för bekväm med copilot som gör att det blir svårare att identifiera fel och som också gör det svårarare att förklara den kod man har skrivit, en styrka som vi ser är att få fler exempel på lösningar som inte kanske kommit på på egen hand. Det går betydligt snabbare att skriva koden förutsatt att man förstår det så man kan fokusera istället på att lösa problem.
 
 <h2>Fråga 12:</h2>
-
+Att efter en egen uppgift har lämnats in att gå tillbaka och använda github copilot för att få förslag på refaktuering och andra lösningar. Att man kan använda det för att snabba till processen av din kodning så vi inte behöver skriva knapp för knapp för att få fram resultat vi vill. Men vi ser att även vi som studenter ska vara försiktiga med att använda co-pilot och istället lära oss själva och ta hjälp av Aizo.
