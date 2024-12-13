@@ -108,5 +108,7 @@ Att man till exempel tar för givet att ai'n skriver rätt och även som en säk
 Det är just nu under utveckling men det kommer till exempel kunna hjälpa till med att namnge lager i din Figma eller att duplicera element. Bra för att skapa snabba skisser så man kan fokusera mer på kodandet, man kan även generera bilder direkt i figma för att snabba på processen och att frilägga bilder (ta bort bakgrund).
 
 <h2>Fråga 17:</h2>
-De mest användbara ai verktygen som vi ser är till exempel co-pilot, chatGPT eller Aizo som kan hjälpa till med att skriva koden och göra jobbet mer effektivt och gör så vi kan då göra rätt. Co-pilot är nog den som vi tycker mest om då den finns direkt tilänglig i utvecklingsprogrammet och hjälpa ge förslag på lösningar som vi inte har tänkt på tidigare.  
+De mest användbara ai verktygen som vi ser är till exempel co-pilot, chatGPT eller Aizo som kan hjälpa till med att skriva koden och göra jobbet mer effektivt och gör så vi kan då göra rätt. Co-pilot är nog den som vi tycker mest om då den finns direkt tilänglig i utvecklingsprogrammet och hjälpa ge förslag på lösningar som vi inte har tänkt på tidigare.
+
+Vi ser co-pilot som ett hjälpmedel när vi är yrkesverksamma och Aizo nu när vi studerar, för det viktiga är att vi lär oss att skriva och förstå kod och att förlita sig på co-pilot förhindrar lärandet mer än Aizo/ChatGPT.
 
